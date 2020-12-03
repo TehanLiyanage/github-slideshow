@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-The First GitHub slideshow 101 system
+_The First_ **GitHub** __slideshow__ *101 system*
 Use the left arrow to go back!
